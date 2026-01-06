@@ -286,3 +286,16 @@ If the application restarts:
 - 🔄 **Batch/Multi-Mode Processing** — Update multiple tickets at once with bulk assignee assignment, state changes, and work notes addition (e.g., assign 5 tickets to same team member, add common resolution notes, change state for entire queue in one action)
 
 ---
+
+
+## 🙌 **Contributions**
+
+
+
+PRs welcome!
+
+Please avoid committing real credentials or internal data.
+
+
+
+---
