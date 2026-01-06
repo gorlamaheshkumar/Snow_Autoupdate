@@ -34,7 +34,7 @@ Runs using a **headless Chrome Selenium scraper** with a **thread-safe logging s
 
 ✔️ Smart auto-actions: **WIP**, **Pending Vendor**, **Pending Tasks**, **Skip Logic**
 
-✔️ **Level-2 L2 Fast-Processing Memory** for repeated incidents
+✔️ **Level-2 (L2) Fast-Processing Memory** for repeated incidents
 
 ✔️ **Thread-safe logging** to three outputs (Console, Log.txt, Live.txt)
 
